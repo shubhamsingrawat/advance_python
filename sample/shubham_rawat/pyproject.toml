@@ -31,8 +31,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/shubhamsingrawat/advance_python/tree/main/section4/mypackage"
-Documentation = "https://github.com/shubhamsingrawat/advance_python/blob/main/section4/mypackage/README.md"
+Homepage = "https://github.com/shubhamsingrawat/advance_python/tree/main/sample/shubham_rawat"
+Documentation = "https://github.com/shubhamsingrawat/advance_python/blob/main/sample/shubham_rawat/README.md"
 
 [project.scripts]
 shubham_rawat = "shubham_rawat.__main__:main"
