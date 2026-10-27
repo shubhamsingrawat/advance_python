@@ -3,9 +3,9 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "justin_furuness"
+name = "shubham_rawat"
 version = "0.1.0"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 description = "My first package!"
 readme = "README.md"
 authors = [
@@ -31,8 +31,8 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/jfuruness/justin_furuness"
-Documentation = "https://github.com/jfuruness/justin_furuness/README.md"
+Homepage = "https://github.com/shubhamsingrawat/advance_python/tree/main/section4/mypackage"
+Documentation = "https://github.com/shubhamsingrawat/advance_python/blob/main/section4/mypackage/README.md"
 
 [project.scripts]
-mypackage = "mypackage.__main__:main"
+shubham_rawat = "shubham_rawat.__main__:main"
