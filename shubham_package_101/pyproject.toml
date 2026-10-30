@@ -33,7 +33,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/shubhamsingrawat/advance_python/tree/main/shubham_package_101/shubham_package_101"
+Homepage = "https://github.com/shubhamsingrawat"
 Documentation = "https://github.com/shubhamsingrawat/advance_python/blob/main/section4/mypackage/README.md"
 
 [project.scripts]
